@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+scipy
+opendatasets
+#pytorch_forecasting

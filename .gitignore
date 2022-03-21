@@ -1,3 +1,18 @@
+.txt
+
+*.swp
+*.tsv
+*.ckpt
+*.pkl
+#*.csv
+
+LightGBM/
+LightGBM
+Dataset/datah-m1-challange
+Dataset/datah-m1-challange/
+Dataset/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
